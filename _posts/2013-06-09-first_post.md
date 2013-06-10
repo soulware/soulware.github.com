@@ -1,4 +1,6 @@
 ---
+layout: post
+title: First Post
 ---
 
-First post.
+Boom. First post.
