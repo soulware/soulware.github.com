@@ -34,7 +34,5 @@ A client can request a particular version by specifying the appropriate media ty
 
 
 References:
-
-[Haters gonna HATEOAS](http://timelessrepo.com/haters-gonna-hateoas)
-
-[Versioning REST Web Services](http://barelyenough.org/blog/2008/05/versioning-rest-web-services])
+* [Haters gonna HATEOAS](http://timelessrepo.com/haters-gonna-hateoas)
+* [Versioning REST Web Services](http://barelyenough.org/blog/2008/05/versioning-rest-web-services])
